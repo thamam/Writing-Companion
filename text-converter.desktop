@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Text Style Converter
+Comment=Convert selected text to different styles
+Exec=/usr/local/bin/text-converter.py
+Icon=preferences-desktop-locale
+Terminal=false
+Categories=Utility;TextTools;
+NoDisplay=true
